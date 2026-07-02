@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://AdscsDigitalAssets.github.io/sitemap.xml
